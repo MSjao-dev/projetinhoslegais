@@ -39,7 +39,7 @@ public class Macacos {
                 }
             }
         }while(vencedor=false);
-        
+        leia.close();   
     }
     public static class Macaco{
         int Idade;
